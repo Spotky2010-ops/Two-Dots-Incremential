@@ -1,2 +1,2 @@
 # Two-Dots-Incremential
-Coming Soon
+Connect colorful dots, automate squares, and trigger endless cosmic blasts in this idle puzzle game!
